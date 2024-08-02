@@ -30,4 +30,4 @@ I'm a dedicated and enthusiastic web developer with a strong foundation in front
 
 Let's connect and build amazing things together! 😊
 
-🔗 [Portfolio](https://kuralnithi-portfolio.netlify.app/) | 📧 [Email](mailto:kuralnithi1999@gmail.com) | 👔 [LinkedIn](https://www.linkedin.com/in/kural-nithi-0b967122b)
+🔗 [Portfolio](https://kuralnithi-dev.netlify.app/) | 📧 [Email](mailto:kuralnithi1999@gmail.com) | 👔 [LinkedIn](https://www.linkedin.com/in/kural-nithi-0b967122b)
