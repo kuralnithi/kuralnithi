@@ -6,7 +6,7 @@
 
 ## 🧠 About Me  
 
-I'm a **Gen AI Developer with 1.10+ years of Full Stack experience**, focused on building **intelligent, secure, and scalable AI-powered applications**.  
+I'm a **Gen AI Developer with 2 years of Full Stack experience**, focused on building **intelligent, secure, and scalable AI-powered applications**.  
 
 I specialize in going beyond basic LLM usage and building **real-world AI systems** with:  
 - 🔐 Secure data access (RBAC at vector level)  
