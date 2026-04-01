@@ -6,7 +6,7 @@
 
 ## 🧠 About Me  
 
-I'm a **Gen AI Developer with 2 years of Full Stack experience**, focused on building **intelligent, secure, and scalable AI-powered applications**.  
+I'm a **Gen AI Developer with 1.10+ years of Full Stack experience**, focused on building **intelligent, secure, and scalable AI-powered applications**.  
 
 I specialize in going beyond basic LLM usage and building **real-world AI systems** with:  
 - 🔐 Secure data access (RBAC at vector level)  
@@ -94,6 +94,7 @@ I’m currently transitioning into a **strong Gen AI Engineer role**, combining 
 ## 🤝 Let's Connect  
 
 🔗 Portfolio: https://kuralnithi-dev.netlify.app/  
+🤗 Hugging Face: https://huggingface.co/spaces/kural-dev  
 📧 Email: kuralnithi1999@gmail.com  
 👔 LinkedIn: https://www.linkedin.com/in/kural-nithi-0b967122b  
 
